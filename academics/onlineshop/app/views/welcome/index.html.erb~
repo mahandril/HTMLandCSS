@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<!--head--!>
+<html>
+
+<head>
+
+<meta http-equiv="content-type"content="text/html; charset=utf-8"/>
+<title>SANUSHA WARDROBES</title>
+<!-- including styles--!>
+
+<style type="text/css">
+body{
+	background-image:url("bg1.jpg") ;
+
+}
+div.img{
+	margin:5px;
+	padding:5px;
+	border:1px solid blue;
+	width:130px;
+	height:150px;
+	float:left;
+	text-align:center;
+}
+div.img img{
+	display:inline;
+	margin:5px;
+	border:1px solid blue;
+}
+div.img a:hover img
+{
+	border:2px solid blue;
+}
+div.desc{
+	text-align:center;
+	width:120px;
+	margin:5px;
+}
+h1.head{
+	text-shadow:5px 5px 5px black;
+}
+
+div.content p{
+	height:200px;
+	width:400px;
+
+}
+
+</style>
+</head>
+
+<!--body section--!>
+<body>
+<div class="container" style="width:1000px";>
+
+<div class="img"> 
+      <a href="k1.html"><img src="k1.jpg" alt="kurti 1" width="100" height="50">
+      </a>
+      <div class="desc">gorgeous white kurti</div>
+</div>
+
+<div class="img">
+      <a href="k2.html"><img src="k2.jpg" alt="kurti 2" width="100" height="50">
+      </a>
+      <div class="desc">stunning multi-color kurti</div>
+</div>
+
+<div class="img">
+      <a href="k3.html"><img src="k3.jpg" alt="kurti 3" width="100" height="50">
+      </a>
+      <div class="desc">stylish white gown</div>
+</div>
+
+<div class="img">
+      <a href="k4.html"><img src="k4.jpg" alt="kurti 4" width="100" height="50">
+      </a>
+      <div class="desc">cute pink kurti</div>
+</div>
+
+<div class="img">
+     <a href="k5.html"><img src="k5.jpg" alt="kurti 5" width="100" height="50">
+     </a>
+     <div class="desc">stylish blue sleeveless kurti</div>
+</div>
+
+<div class="img">
+     <a href="k6.html"><img src="k6.jpg" alt="kurti 6" width="100" height="50">
+     </a>
+     <div class="desc">office wear kurti</div>
+</div>
+<img src="title1.png" >
+<marquee> <strong>SANUSHA WARDROBES</strong> welcomes you!!! serving favourite clothings for women since 1972</marquee>
+<br>
+<br>
+<br>
+
+<a href="dealtable.html"><img src="dealpic.gif"></a>
+</body>
+</html>
+
